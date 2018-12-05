@@ -32,9 +32,9 @@ Platforms
 
 - Region of Waterloo Engage Platform: <https://www.engagewr.ca/> .
   + You can subscribe to be informed of upcoming consultations:
-  <https://www.opentownhall.com/portals/274/forum_home?phase=open>
+    <https://www.opentownhall.com/portals/274/forum_home?phase=open>
   + It looks like there are four distinct sites for Cambridge,
-  Kitchener, Waterloo and the Region?
+    Kitchener, Waterloo and the Region?
 
 Public Engagement
 -----------------
