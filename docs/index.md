@@ -9,7 +9,10 @@ It looks like many of the municipalities are using the same CMS?
 They all have "subscribe to this page" functionality. 
 
 They all have calendars. Most of the calendars seem to have agendas
-and minutes. 
+and minutes. You can subscribe to the calendars but you cannot get
+useful (eg iCal) feeds directly.
+
+Some of them have RSS feeds, but the feeds seem useless. 
 
 
 Webcasts
