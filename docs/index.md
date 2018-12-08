@@ -1,6 +1,17 @@
 Municipal Engagement Resources
 ==============================
 
+Overall
+-------
+
+It looks like many of the municipalities are using the same CMS?
+
+They all have "subscribe to this page" functionality. 
+
+They all have calendars. Most of the calendars seem to have agendas
+and minutes. 
+
+
 Webcasts
 --------
 
@@ -14,6 +25,8 @@ Webcasts
 - Wellesley: None?
 
 - Woolwich: None?
+
+- Wilmot: None?
 
 Agendas and Meeting Minutes
 ---------------------------
@@ -30,17 +43,10 @@ Agendas and Meeting Minutes
   Calendar of Events: <http://calendar.woolwich.ca/council/?_mid_=6329>
   + Subscribe here: <http://calendar.woolwich.ca/council/Subscription>
 
+- Wilmot: Calendar of Events: <https://calendar.wilmot.ca/council/>
+  + Subscribe: <https://calendar.wilmot.ca/council/Subscription>
+  
 
-
-Mailing Lists
--------------
-
-- Region of Waterloo: You can subscribe to updates from many pages?
-  All pages? It is not clear to me how this works.
-
-- Wellesley: Appears to be the same. 
-
-- Woolwich: Same. 
 
 Platforms
 ---------
@@ -85,3 +91,9 @@ Public Engagement by Municipality
   <https://www.woolwich.ca/en/township-services/engineering-public-notices.aspx>
 - Ongoing Planning Projects:
   <https://www.woolwich.ca/en/township-services/Ongoing-Planning-Items.aspx>
+
+
+### Wilmot
+
+- News (and notices?): 
+  <https://www.wilmot.ca/Modules/News/search.aspx>
