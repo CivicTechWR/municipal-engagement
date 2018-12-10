@@ -31,6 +31,8 @@ Webcasts
 
 - Wilmot: None?
 
+- New Hamburg: None?
+
 Agendas and Meeting Minutes
 ---------------------------
 
@@ -49,6 +51,9 @@ Agendas and Meeting Minutes
 - Wilmot: Calendar of Events: <https://calendar.wilmot.ca/council/>
   + Subscribe: <https://calendar.wilmot.ca/council/Subscription>
   
+- New Hamburg: Calendar of Events:
+  <https://calendar.northdumfries.ca/council>
+  + Subscribe: <https://calendar.northdumfries.ca/council/Subscription>
 
 
 Platforms
@@ -100,3 +105,11 @@ Public Engagement by Municipality
 
 - News (and notices?): 
   <https://www.wilmot.ca/Modules/News/search.aspx>
+
+### North Dumfries
+
+- Some "Eblast" you can subscribe to:
+  <https://www.northdumfries.ca/subscribe>
+
+- Planning applications:
+  <https://www.northdumfries.ca/en/doing-business/current-planning-applications.aspx>
