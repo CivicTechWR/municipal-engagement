@@ -33,11 +33,21 @@ Webcasts
 
 - North Dumfries: None?
 
+- Kitchener:
+  <https://www.kitchener.ca/en/city-services/watch-a-meeting.aspx>
+  + Also on Rogers?
+
 Agendas and Meeting Minutes
 ---------------------------
 
 - Region of Waterloo:
   <https://www.regionofwaterloo.ca/en/regional-government/agendas-minutes-and-webcasts.aspx>
+
+  + The Region has a calendar too:
+    <https://calendar.regionofwaterloo.ca/council>
+
+  + And you can subscribe:
+    <https://calendar.regionofwaterloo.ca/Council/Subscription>
 
 - Wellesley: They have a meeting calendar, which seems to have minutes
   and agendas: <http://calendar.wellesley.ca>
@@ -55,6 +65,10 @@ Agendas and Meeting Minutes
   <https://calendar.northdumfries.ca/council>
   + Subscribe: <https://calendar.northdumfries.ca/council/Subscription>
 
+- Kitchener: <https://calendar.kitchener.ca/Council/>
+  + Subscribe: <https://calendar.kitchener.ca/Council/Subscription>
+  + Past minutes and agendas:
+    <https://lf.kitchener.ca/WeblinkExt/Browse.aspx?dbid=0>
 
 Platforms
 ---------
