@@ -31,7 +31,7 @@ Webcasts
 
 - Wilmot: None?
 
-- New Hamburg: None?
+- North Dumfries: None?
 
 Agendas and Meeting Minutes
 ---------------------------
@@ -51,7 +51,7 @@ Agendas and Meeting Minutes
 - Wilmot: Calendar of Events: <https://calendar.wilmot.ca/council/>
   + Subscribe: <https://calendar.wilmot.ca/council/Subscription>
   
-- New Hamburg: Calendar of Events:
+- North Dumfries: Calendar of Events:
   <https://calendar.northdumfries.ca/council>
   + Subscribe: <https://calendar.northdumfries.ca/council/Subscription>
 
