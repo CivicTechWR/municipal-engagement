@@ -5,7 +5,8 @@ Overall
 -------
 
 It looks like many of the municipalities are using the same CMS?
-  + But not City of Waterloo?
+  + But not City of Waterloo? It looks similar but has slightly
+  different URLs.
 
 They all have "subscribe to this page" functionality. 
 
@@ -54,6 +55,11 @@ Webcasts
   + On Youtube:
   <https://www.youtube.com/channel/UCVP6QGtoGy5jmMkKhE3FRPA>
 
+
+- City of Cambridge:
+  + <https://www.cambridge.ca/en/your-city/council-webcast.aspx>
+  + On Rogers TV: <http://www.rogerstv.com/show?lid=12&rid=64&sid=942>
+
 Agendas and Meeting Minutes
 ---------------------------
 
@@ -90,6 +96,13 @@ Agendas and Meeting Minutes
 - City of Waterloo: Agendas are on a calendar, but maybe it is not
   subscribable?
   + <https://www.waterloo.ca/en/calendar/council/default.aspx>
+
+- Cambridge:
+  <https://www.cambridge.ca/en/your-city/Agendas-and-Minutes.aspx>
+  + It is the same calendar as others:
+  <http://calendar.cambridge.ca/council>
+  + Subscribe: <http://calendar.cambridge.ca/Council/Subscription>
+
 
 
 Platforms
