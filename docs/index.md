@@ -51,9 +51,9 @@ Webcasts
 
 - City of Waterloo: 
   + Info page:
-  <https://www.waterloo.ca/en/government/councilandcommitteemeetings.asp>
+    <https://www.waterloo.ca/en/government/councilandcommitteemeetings.asp>
   + On Youtube:
-  <https://www.youtube.com/channel/UCVP6QGtoGy5jmMkKhE3FRPA>
+    <https://www.youtube.com/channel/UCVP6QGtoGy5jmMkKhE3FRPA>
 
 
 - City of Cambridge:
@@ -100,7 +100,7 @@ Agendas and Meeting Minutes
 - Cambridge:
   <https://www.cambridge.ca/en/your-city/Agendas-and-Minutes.aspx>
   + It is the same calendar as others:
-  <http://calendar.cambridge.ca/council>
+    <http://calendar.cambridge.ca/council>
   + Subscribe: <http://calendar.cambridge.ca/Council/Subscription>
 
 
