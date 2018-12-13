@@ -5,6 +5,7 @@ Overall
 -------
 
 It looks like many of the municipalities are using the same CMS?
+  + But not City of Waterloo?
 
 They all have "subscribe to this page" functionality. 
 
@@ -13,6 +14,16 @@ and minutes. You can subscribe to the calendars but you cannot get
 useful (eg iCal) feeds directly.
 
 Some of them have RSS feeds, but the feeds seem useless. 
+
+
+Areas to Investigate
+--------------------
+
+- Zoning variances: are these published?
+- Minutes and Agendas: can these be searched easily for residents
+  looking for discussion of particular issues?
+- Leisure activities: Apparently the current website is not user
+  friendly. Can we improve this?
 
 
 Webcasts
@@ -36,6 +47,12 @@ Webcasts
 - Kitchener:
   <https://www.kitchener.ca/en/city-services/watch-a-meeting.aspx>
   + Also on Rogers?
+
+- City of Waterloo: 
+  + Info page:
+  <https://www.waterloo.ca/en/government/councilandcommitteemeetings.asp>
+  + On Youtube:
+  <https://www.youtube.com/channel/UCVP6QGtoGy5jmMkKhE3FRPA>
 
 Agendas and Meeting Minutes
 ---------------------------
@@ -70,6 +87,11 @@ Agendas and Meeting Minutes
   + Past minutes and agendas:
     <https://lf.kitchener.ca/WeblinkExt/Browse.aspx?dbid=0>
 
+- City of Waterloo: Agendas are on a calendar, but maybe it is not
+  subscribable?
+  + <https://www.waterloo.ca/en/calendar/council/default.aspx>
+
+
 Platforms
 ---------
 
@@ -82,6 +104,9 @@ Platforms
 - Region of Waterloo map of Road Closures:
   <http://gis.region.waterloo.on.ca/Html5Viewer2_6_1/Index.html?configBase=http://gis.region.waterloo.on.ca/Geocortex/Essentials/GeocortexEssentials_4/REST/sites/Regional_Road_Closures/viewers/Regional_Road_Closures/virtualdirectory/Resources/Config/Default>
   
+- PingStreet App:
+  <https://www.waterloo.ca/en/eservices/pingstreet.asp#> . This allows
+  citizens to report problems easily.
   
 Public Engagement by Municipality
 ---------------------------------
@@ -127,3 +152,7 @@ Public Engagement by Municipality
 
 - Planning applications:
   <https://www.northdumfries.ca/en/doing-business/current-planning-applications.aspx>
+
+### City of Waterloo
+
+- RSS feeds: <https://www.waterloo.ca/en/rss.asp>
