@@ -120,6 +120,33 @@ Platforms
 - PingStreet App:
   <https://www.waterloo.ca/en/eservices/pingstreet.asp#> . This allows
   citizens to report problems easily.
+
+
+Social Media
+------------
+
+### Region of Waterloo
+
+- <https://twitter.com/RegionWaterloo>
+- <https://www.facebook.com/RegionWaterloo/>
+- <https://www.youtube.com/user/regionofwaterloo>
+
+### Cambridge
+
+- <https://twitter.com/cityofcambridge>
+- <https://www.facebook.com/thecityofcambridge>
+- <https://www.youtube.com/CityOfCambridgeOn>
+
+### Wellesley
+
+- <https://twitter.com/wellesley_ca>
+- <https://www.facebook.com/Township-of-Wellesley-1532148360175505/>
+
+### Wilmot
+
+- <http://www.twitter.com/wilmottownship>
+- <https://www.youtube.com/channel/UCcA8fcRx03H8zYkFLIQMjow>
+
   
 Public Engagement by Municipality
 ---------------------------------
