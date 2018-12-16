@@ -137,6 +137,11 @@ Social Media
 - <https://www.facebook.com/thecityofcambridge>
 - <https://www.youtube.com/CityOfCambridgeOn>
 
+### North Dumfries
+
+- <https://twitter.com/northdumfries>
+- <https://www.facebook.com/Township-of-North-Dumfries-103139689762243/>
+
 ### Wellesley
 
 - <https://twitter.com/wellesley_ca>
