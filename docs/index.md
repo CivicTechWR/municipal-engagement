@@ -137,6 +137,13 @@ Social Media
 - <https://www.facebook.com/thecityofcambridge>
 - <https://www.youtube.com/CityOfCambridgeOn>
 
+### Kitchener 
+
+- <https://twitter.com/citykitchener>
+- <http://www.facebook.com/cityofkitchener>
+- <http://www.youtube.com/cityofkitchener>
+- <http://www.instagram.com/cityofkitchener>
+
 ### North Dumfries
 
 - <https://twitter.com/northdumfries>
@@ -150,6 +157,7 @@ Social Media
 ### Wilmot
 
 - <http://www.twitter.com/wilmottownship>
+- <http://www.twitter.com/lovewilmot> (unofficial)
 - <https://www.youtube.com/channel/UCcA8fcRx03H8zYkFLIQMjow>
 
   
