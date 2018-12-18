@@ -160,6 +160,12 @@ Social Media
 - <http://www.twitter.com/lovewilmot> (unofficial)
 - <https://www.youtube.com/channel/UCcA8fcRx03H8zYkFLIQMjow>
 
+### Woolwich
+
+- <https://twitter.com/woolwichupdates>
+- <https://www.facebook.com/pages/Township-of-Woolwich/355032784526785>
+
+
   
 Public Engagement by Municipality
 ---------------------------------
