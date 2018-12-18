@@ -149,6 +149,12 @@ Social Media
 - <https://twitter.com/northdumfries>
 - <https://www.facebook.com/Township-of-North-Dumfries-103139689762243/>
 
+### City of Waterloo
+
+- <https://www.twitter.com/citywaterloo>
+- <https://www.facebook.com/citywaterloo>
+- <https://www.youtube.com/citywaterloo>
+
 ### Wellesley
 
 - <https://twitter.com/wellesley_ca>
