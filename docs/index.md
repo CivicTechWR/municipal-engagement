@@ -25,6 +25,7 @@ Areas to Investigate
   looking for discussion of particular issues?
 - Leisure activities: Apparently the current website is not user
   friendly. Can we improve this?
+  + <https://ca.apm.activecommunities.com/activekitchener/Home>
 
 
 Webcasts
