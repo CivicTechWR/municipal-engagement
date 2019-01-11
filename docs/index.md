@@ -173,6 +173,15 @@ Social Media
 - <https://www.facebook.com/pages/Township-of-Woolwich/355032784526785>
 
 
+## Zoning
+
+### Kitchener
+
+- Apparently there is an interactive map?
+  <https://www.kitchener.ca/en/building-and-development/active-permits.aspx>
+- There are some maps here:
+  <https://map.kitchener.ca/OnPointExt/WebPages/Landing/Public.aspx>
+
   
 Public Engagement by Municipality
 ---------------------------------
