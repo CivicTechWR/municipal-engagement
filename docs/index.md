@@ -97,6 +97,7 @@ Agendas and Meeting Minutes
 - City of Waterloo: Agendas are on a calendar, but maybe it is not
   subscribable?
   + <https://www.waterloo.ca/en/calendar/council/default.aspx>
+  + Subscribe here? <https://subscribe.waterloo.ca/Subscribe>
 
 - Cambridge:
   <https://www.cambridge.ca/en/your-city/Agendas-and-Minutes.aspx>
