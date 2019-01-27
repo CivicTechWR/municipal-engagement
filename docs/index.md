@@ -178,14 +178,36 @@ Social Media
 
 ### Kitchener
 
+- Some listings are here:
+  <https://www.kitchener.ca/en/planning-and-development-consultations.aspx>
+
 - Apparently there is an interactive map?
   <https://www.kitchener.ca/en/building-and-development/active-permits.aspx>
 - There are some maps here:
   <https://map.kitchener.ca/OnPointExt/WebPages/Landing/Public.aspx>
 
+- Kitchener is changing its zoning bylaw:
+  <https://www.kitchener.ca/en/city-services/comprehensive-review-of-the-zoning-by-law-crozby.aspx>
+
+### City of Waterloo
+
+- <https://www.waterloo.ca/en/government/zone-changes.aspx> 
+
+They have some information about public meetings with some (not all)
+of the listings. 
+
+(Almost all of these are zoning AWAY from agricultural land. Hmmm..)
+
+### Wellesley
+
+No luck yet.
+
   
 Public Engagement by Municipality
 ---------------------------------
+
+
+
 
 ### Region of Waterloo 
 
@@ -199,7 +221,8 @@ Public Engagement by Municipality
   <https://www.regionofwaterloo.ca/Modules/News/Search.aspx?feedId=d190b4c1-d9d7-4cb8-bc36-f10bb4423ef7>
 - Construction and Road Closures (includes future projects):
   <https://www.regionofwaterloo.ca/en/living-here/construction-and-road-closures.aspx>
-
+- Public notices:
+  <https://www.regionofwaterloo.ca/Modules/News/Search.aspx?feedId=d190b4c1-d9d7-4cb8-bc36-f10bb4423ef7>
 
 ### Wellesley
 
