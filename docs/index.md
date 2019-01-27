@@ -202,6 +202,12 @@ of the listings.
 
 No luck yet.
 
+
+### Woolwich
+
+- Zoning changes:
+  <https://www.woolwich.ca/en/township-services/Ongoing-Planning-Items.aspx>
+
   
 Public Engagement by Municipality
 ---------------------------------
