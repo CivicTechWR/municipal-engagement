@@ -189,6 +189,11 @@ Social Media
 - Kitchener is changing its zoning bylaw:
   <https://www.kitchener.ca/en/city-services/comprehensive-review-of-the-zoning-by-law-crozby.aspx>
 
+### North Dumfries
+
+- <https://www.northdumfries.ca/en/doing-business/current-planning-applications.aspx>
+
+
 ### City of Waterloo
 
 - <https://www.waterloo.ca/en/government/zone-changes.aspx> 
