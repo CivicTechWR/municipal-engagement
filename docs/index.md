@@ -176,6 +176,32 @@ Social Media
 
 ## Zoning
 
+
+
+### Cambridge 
+
+- <https://www.cambridge.ca/en/build-invest-grow/Zoning.aspx> : Zoning
+  map (interactive)
+
+- <https://services.cambridge.ca/CapitalProjects/Projects.aspx> :
+  These are projects currently under construction. They are more than
+  just zoning variances.
+
+- <https://www.cambridge.ca/en/learn-about/pre-construction-projects.aspx>
+  These projects are in the pre-construction phase. I think they are
+  just City projects, however. 
+
+- There is an overview here:
+  <https://www.cambridge.ca/en/build-invest-grow/Planning-Process.aspx>
+
+
+- <https://www.cambridge.ca/en/build-invest-grow/Subdivision.aspx> :
+  Subdivision and condo applications are handled through the Region.
+
+- TODO: Find the list of zoning variance applications. The "Committee
+  of Adjustment" agendas do list these, so they must exist somewhere.
+
+
 ### Kitchener
 
 - Some listings are here:
@@ -241,6 +267,10 @@ Public Engagement by Municipality
 - Public notices:
   <https://www.regionofwaterloo.ca/Modules/News/Search.aspx?feedId=d190b4c1-d9d7-4cb8-bc36-f10bb4423ef7>
 
+### Cambridge
+
+- Open Data: <http://geohub.cambridge.ca/>
+
 ### Wellesley
 
 - Public notices:
@@ -266,9 +296,8 @@ Public Engagement by Municipality
 - Some "Eblast" you can subscribe to:
   <https://www.northdumfries.ca/subscribe>
 
-- Planning applications:
-  <https://www.northdumfries.ca/en/doing-business/current-planning-applications.aspx>
-
 ### City of Waterloo
 
 - RSS feeds: <https://www.waterloo.ca/en/rss.asp>
+
+
