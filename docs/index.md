@@ -176,7 +176,13 @@ Social Media
 
 ## Zoning
 
+### Region of Waterloo 
 
+- <https://www.regionofwaterloo.ca/Modules/News/Search.aspx?feedId=d190b4c1-d9d7-4cb8-bc36-f10bb4423ef7>
+  : Public notices
+
+- TODO: Where is the list of variances here? Where is the list of
+  condo/subdivision plans?
 
 ### Cambridge 
 
