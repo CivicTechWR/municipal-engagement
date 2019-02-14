@@ -127,7 +127,7 @@ Platforms
 Social Media
 ------------
 
-Twitter List of official municipal accounts: https://twitter.com/CivicTechWR/lists/wr-municipalities
+Twitter List of official municipal accounts: <https://twitter.com/CivicTechWR/lists/wr-municipalities>
 
 ### Region of Waterloo
 
